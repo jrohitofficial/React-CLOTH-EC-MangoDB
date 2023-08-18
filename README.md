@@ -6,4 +6,5 @@ The app is developed using ReactJS for the frontend and MongoDB for the database
 
 With this React E-Commerce Clothing application powered by MongoDB, businesses can effectively showcase their products, manage inventory, process orders, and provide a seamless shopping experience to their customers.
 
-#React-EC-Clothing-MangoDB
+#npm install
+#npm start
